@@ -1,2 +1,5 @@
 # hello-world
-My first repo
+
+First edits on my readme helloworld.
+
+My repo is cool
